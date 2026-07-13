@@ -1,0 +1,6 @@
+{
+  "name": "Antravel",
+  "description": "Experiencia de viaje cinematográfica e inmersiva con animaciones premium y scroll fluido.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
