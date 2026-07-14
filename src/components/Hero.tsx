@@ -13,7 +13,7 @@ export default function Hero() {
         playsInline
         className="absolute inset-0 w-full h-full object-cover contrast-[1.15] saturate-[1.6] brightness-[1.05]"
       >
-        <source src="/input_file_0.mp4" type="video/mp4" />
+        <source src="/videos/hero.mp4" type="video/mp4" />
         {/* Secondary fallback video just in case */}
         <source src="https://assets.mixkit.co/videos/preview/mixkit-clouds-and-sun-seen-from-an-airplane-window-43093-large.mp4" type="video/mp4" />
       </video>
